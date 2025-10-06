@@ -16,18 +16,4 @@ It provides users with easy access to medical information, appointment booking, 
 ---
 
 
-## 🧩 Project Structure
 
-Medilab/
-├── backend/ # Node.js + Express backend
-│ ├── connection/ # Database connection files
-│ ├── controllers/ # API controllers
-│ ├── models/ # Mongoose models
-│ └── .env # Environment variables (not uploaded)
-│
-├── frontend/ # React frontend
-│ ├── src/ # React source files
-│ └── public/ # Static files
-│
-├── package-lock.json
-└── README.md
