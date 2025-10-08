@@ -2,9 +2,30 @@
 
 MediLab is a modern web application designed to simplify healthcare management and improve patient–doctor interaction. 
 It provides users with easy access to medical information, appointment booking, and contact support — all in one place.
-
+It allows users to register, log in, and contact the lab directly via an online form.
+The project uses a **React frontend**, **Express backend**, and **MongoDB database**, deployed on **Render**.
 ---
 
+
+## 🚀 Tech Stack
+
+### 🖥️ Frontend
+- React.js  
+- Bootstrap  
+- Axios for API requests
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- MongoDB + Mongoose  
+- dotenv, cors, express-fileupload  
+
+### ☁️Real time
+- 🔌 Socket.IO
+- 🪄 JWT Auth
+  
+
+---
 ## 🚀 Features
 
 - 💬 **Contact Form** – Allows patients or visitors to easily reach out to the clinic.
