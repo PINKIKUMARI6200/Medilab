@@ -35,6 +35,9 @@ The project uses a **React frontend**, **Express backend**, and **MongoDB databa
 - ⚙️ **Node.js + Express.js Backend** – Handles API routes and database connectivity.
 
 ---
+## 📸 Screenshots
+---
+
 
 
 
