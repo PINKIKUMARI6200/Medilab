@@ -47,6 +47,9 @@ The project uses a **React frontend**, **Express backend**, and **MongoDB databa
 
 <img width="1880" height="903" alt="Screenshot 2025-10-08 184051" src="https://github.com/user-attachments/assets/372c411a-dd5c-40b5-83f3-92b44a7e7acf" />
 
+<img width="1881" height="971" alt="Screenshot 2025-10-08 184550" src="https://github.com/user-attachments/assets/0a3186cd-f970-423f-8c6c-892f2642a595" />
+
+
 
 
 
